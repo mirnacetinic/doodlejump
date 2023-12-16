@@ -1,0 +1,77 @@
+﻿  Game.cpp
+C:\Users\mirna\source\repos\Doodle Jump\Objects\Button.h(27,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mirna\source\repos\Doodle Jump\Objects\Button.h(27,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Jumper.cpp
+  main.cpp
+C:\Users\mirna\source\repos\Doodle Jump\Objects\Button.h(27,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mirna\source\repos\Doodle Jump\Objects\Button.h(27,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  GameObject.cpp
+C:\Users\mirna\source\repos\Doodle Jump\Objects\GameObject.cpp(31,39): warning C4244: 'return': conversion from 'const T' to 'const float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\mirna\source\repos\Doodle Jump\Objects\GameObject.cpp(36,39): warning C4244: 'return': conversion from 'const T' to 'const float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Platforms.cpp
+  GameState.cpp
+  Menu.cpp
+C:\Users\mirna\source\repos\Doodle Jump\Objects\Button.h(27,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mirna\source\repos\Doodle Jump\Objects\Button.h(27,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  State.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 392 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Doodlesfml.vcxproj -> C:\Users\mirna\source\repos\Doodle Jump\Release\Doodlesfml.exe
